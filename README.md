@@ -25,8 +25,3 @@
 - Email: [bastosgeovanna@hotmail.com](mailto:bastosgeovanna@htmail.com)
 - LinkedIn: [Geovanna Bastos](https://www.linkedin.com/in/geovanna-bastos/)
 
- ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![Docker](https://img.shields.io/badge/Docker-Container-blue)
-
-

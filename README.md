@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá! Me chamo Geovanna 👋
 
-<!--
-**gebastos/gebastos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Estudante de desenvolvimento de software com experiência em front-end. 
+- Cursando Engenharia de Software na Universidade de Santo Amaro.
 
-Here are some ideas to get you started:
+## 🛠️ Habilidades
+**Linguagens de Programação:**
+- ![HTML](https://img.shields.io/badge/HTML-5-orange)
+- ![CSS](https://img.shields.io/badge/CSS-3-blue)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frameworks:**
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-4.0-blueviolet)
+- ![React](https://img.shields.io/badge/React-17.0-blue)
+
+**Ferramentas:**
+- ![Git](https://img.shields.io/badge/Git-2.30-orange)
+  
+## 🌟 Projetos Destacados
+- [Projeto 1](https://github.com/gebastos/ProjetoSpotify): Projeto de cópia do site Spotify com finalidade de estudos.
+- [Projeto 2](link-do-repositorio): em breve.
+
+
+## 📫 Como me encontrar
+- Email: [bastosgeovanna@hotmail.com](mailto:bastosgeovanna@htmail.com)
+- LinkedIn: [Geovanna Bastos](https://www.linkedin.com/in/geovanna-bastos/)
+
+ ![Python](https://img.shields.io/badge/Python-3.x-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Docker](https://img.shields.io/badge/Docker-Container-blue)
+
+

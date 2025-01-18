@@ -1,6 +1,6 @@
 # Olá! Me chamo Geovanna 👋
 
-👨‍💻 Estudante de desenvolvimento de software com experiência em front-end. 
+👨‍💻 Estudante de engenharia de software com experiência em front-end. 
 - Cursando Engenharia de Software na Universidade de Santo Amaro.
 
 ## 🛠️ Habilidades

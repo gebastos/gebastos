@@ -22,6 +22,6 @@
 
 
 ## 📫 Como me encontrar
-- Email: [bastosgeovanna@hotmail.com](mailto:bastosgeovanna@htmail.com)
+- Email: [bastosgeovanna@hotmail.com](mailto:bastosgeovanna@hotmail.com)
 - LinkedIn: [Geovanna Bastos](https://www.linkedin.com/in/geovanna-bastos/)
 
